@@ -33,7 +33,7 @@ The web app includes external dependencies, such as the Font Awesome icon librar
 
 *User Interaction:* 
 
-Users can interact with your web app by clicking buttons, selecting formatting options, and typing or editing text in the content area. The app provides real-time feedback by applying the selected formatting to the text.
+Users can interact with the web app by clicking buttons, selecting formatting options, and typing or editing text in the content area. The app provides real-time feedback by applying the selected formatting to the text.
 
 *Styling Customization:* 
 
